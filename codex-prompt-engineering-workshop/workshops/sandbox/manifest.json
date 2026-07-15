@@ -1,0 +1,59 @@
+{
+    "workshoptitle": "Codex Prompt Engineering for Oracle Workshop Development",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introduction",
+            "description": "Workshop overview, audience, and learning objectives.",
+            "type": "livelabs",
+            "filename": "../../introduction/introduction.md"
+        },
+        {
+            "title": "Get Started",
+            "description": "Review the source material, tooling, and working assumptions for this workshop.",
+            "type": "livelabs",
+            "filename": "../../get-started/get-started.md"
+        },
+        {
+            "title": "Lab 1: Configure Codex, MCP, and Local Access",
+            "description": "Set up the Codex working model, baseline configuration, and MCP tool plan.",
+            "type": "livelabs",
+            "filename": "../../1-config-mcp-and-codex-setup/config-mcp-and-codex-setup.md"
+        },
+        {
+            "title": "Lab 2: Create a Presentation from Blogs, Docs, and the Oracle Style Guide",
+            "description": "Turn grounded source material into an Oracle-style presentation draft.",
+            "type": "livelabs",
+            "filename": "../../2-source-material-and-presentation-creation/source-material-and-presentation-creation.md"
+        },
+        {
+            "title": "Lab 3: Build a Lab from the Presentation",
+            "description": "Convert presentation content into a LiveLabs-style lab draft.",
+            "type": "livelabs",
+            "filename": "../../3-build-a-lab-from-the-presentation/build-a-lab-from-the-presentation.md"
+        },
+        {
+            "title": "Lab 4: Deploy OCI Resources Through the Console and CLI",
+            "description": "Define and structure the OCI environment needed to support the workshop.",
+            "type": "livelabs",
+            "filename": "../../4-deploy-oci-resources/deploy-oci-resources.md"
+        },
+        {
+            "title": "Lab 5: Plan the APEX Buildout",
+            "description": "Shape the APEX application plan and turn it into workshop-ready implementation units.",
+            "type": "livelabs",
+            "filename": "../../5-apex-buildout/apex-buildout.md"
+        },
+        {
+            "title": "Lab 6: Add a New Lab to an Existing Workshop",
+            "description": "Extend an existing workshop while preserving structure, style, and sequencing.",
+            "type": "livelabs",
+            "filename": "../../6-add-a-new-lab-to-an-existing-workshop/add-a-new-lab-to-an-existing-workshop.md"
+        },
+        {
+            "title": "Need Help?",
+            "description": "Solutions to common problems and directions for receiving live help.",
+            "filename": "../../help/help.md"
+        }
+    ]
+}
